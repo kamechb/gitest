@@ -1,0 +1,3 @@
+[submodule "area_cn"]
+	path = area_cn
+	url = git@github.com:kamechb/area_cn.git
